@@ -13,3 +13,5 @@ tested first.
 ![scan](images/sql3b.png)
 Then now did the real sql union.----- UNION SELECT username || '~' || password from users. #BOOM ,,It worked
 ![scan](images/sql3c.png)
+With password ,,the easy task came,,logging in with admin credentials.
+![scan](images/sql3d.png)
