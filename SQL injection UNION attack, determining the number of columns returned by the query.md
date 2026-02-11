@@ -5,11 +5,11 @@ Step 1 \
      ' UNION SELECT NULL -- \
      <img width="1602" height="905" alt="image" src="https://github.com/user-attachments/assets/93187b23-987c-43e9-b82d-6a680f44fa03" /> \
      Got error,,meaning its more than one column. \
-Step 2 \ 
+Step 2  \ 
     tried \
      ' UNION SELECT NULL,NULL -- \
      <img width="1599" height="906" alt="image" src="https://github.com/user-attachments/assets/423d2db4-9ba4-4f93-bba8-fcac04013d6c" /> \
-     Got error,,meaning its 2+ columns
+     Got error,,meaning its 2+ columns \
 Step 3 \
       tried \
        ' UNION SELECT NULL,NULL,NULL -- \
